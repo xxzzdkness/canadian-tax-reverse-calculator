@@ -12,7 +12,7 @@ A responsive calculator for Canadian receipt taxes. It supports forward and reve
 Requires Node.js 22 or newer.
 
 ```bash
-npm ci
+npm install
 npm run dev
 ```
 
